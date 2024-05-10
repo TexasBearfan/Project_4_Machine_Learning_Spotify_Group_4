@@ -4,14 +4,14 @@
 In this project, we analyzed a dataset of popular songs from Spotify to create and train a machine learning model that can be used to help predict the popularity of a song. We also analyzed various characteristics of these popular songs and created visualizations to show trends of how popular songs with these specific characteristics over time.
 
 ## Data Sources
-Top 200 Spotify Songs Dataset by Bruno Alarcon from Kaggle
+Top 200 Spotify Songs Dataset by Bruno Alarcon from Kaggle - this dataset includes the top 200 songs for every day of 2021 through 2023 and has over 650,000 records
 https://www.kaggle.com/datasets/brunoalarcon123/top-200-spotify-songs-dataset
 
 ## Process
 ### Data Cleaning
 * We used Pandas to read in the csv to a jupyter notebook where we deleted unneccessary columns and dropped duplicate values
 * We used pd.to_datetime to change the format of the "Date" column and isolated the data from 5/30/2022 to 5/29/2023 to reduce the dataset so it's more manageable and help identify seasonal trends
-* We then exported the cleaned DataFrame to a csv so it could be used for future analysis
+* We then exported the cleaned DataFrame to a csv so it could be used for future analysis - the cleaned CSV has over 100,000 records.
   
 ![image](https://github.com/TexasBearfan/Project_4_Machine_Learning_Spotify_Group_4/assets/147567143/be4c5ee4-2afc-4579-ad17-03226b68c049)
 
