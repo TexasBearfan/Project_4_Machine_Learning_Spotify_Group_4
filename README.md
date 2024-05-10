@@ -4,7 +4,7 @@
 In this project, we analyzed a dataset of popular songs from Spotify to create and train a machine learning model that can be used to help predict the popularity of a song. We also analyzed various characteristics of these popular songs and created visualizations to show trends of how popular songs with these specific characteristics over time.
 
 ## Data Sources
-Top 200 Spotify Songs Dataset by Bruno Alarcon from Kaggle - this dataset includes the top 200 songs for every day of 2021 through 2023 and has over 650,000 records
+Top 200 Spotify Songs Dataset by Bruno Alarcon from Kaggle - this dataset includes the top 200 songs on Spotify from 1/1/2017 through 5/29/2023, and has over 650,000 records
 https://www.kaggle.com/datasets/brunoalarcon123/top-200-spotify-songs-dataset
 
 ## Process
