@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/brunoalarcon123/top-200-spotify-songs-dataset
 
 ![image-3](https://github.com/TexasBearfan/Project_4_Machine_Learning_Spotify_Group_4/assets/147567143/e7fd6030-7880-4005-b79a-7451ab6a7785)
 
-* Our first model yielded a fairly low accuracy score of 0.55
+* Our first model yielded a low accuracy score of 0.29
     
 ### Model Optimization/ Testing
 * We used the same data and process as the initial model
