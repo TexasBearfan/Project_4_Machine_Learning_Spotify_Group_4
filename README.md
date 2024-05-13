@@ -68,3 +68,5 @@ https://www.kaggle.com/datasets/brunoalarcon123/top-200-spotify-songs-dataset
 * We created, trained, and optimized a model which demonstrated the potential machine learning in forecasting trends and preferences in the music industry
 * Next steps: we can continue improving our model with deeper exploration into seasonal trends. We can introduce additional factors, such as geographic or demographic information, would allow for more granular analysis
 
+### Presentation Link: https://docs.google.com/presentation/d/1xeGsnVCkhFbIyMSYiz3reWSDE9cRD3FPKsDoNuJ7L6c/edit#slide=id.p
+
